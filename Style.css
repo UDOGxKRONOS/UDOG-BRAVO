@@ -115,6 +115,18 @@ h2 {
     transition: 0.5s;
 }
 
+.pre {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.regformat pre {
+    color: white;
+    text-align: left;
+}
+
 @media all and (max-width: 1000px)
 {
 
