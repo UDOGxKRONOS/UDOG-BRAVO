@@ -129,11 +129,16 @@ h2 {
 
 @media all and (max-width: 1000px)
 {
+    #logo {
+        width: 35px;
+        height: 35px;
+        margin-left: 40px;
+    }
 
     h2 {
         color: #00ffaf;
         text-align: center;
-        font-size: 20px;
+        font-size: 30px;
         
     }
     .tourney-table thead {
